@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="Google_Api_Key">AIzaSyBr7co8bsHfWdMEn3YFZ80Yaa0jMn9W3Dw</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
